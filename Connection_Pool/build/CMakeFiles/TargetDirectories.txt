@@ -1,0 +1,4 @@
+/home/drw1/mysql/Connection_Pool/build/CMakeFiles/server.dir
+/home/drw1/mysql/Connection_Pool/build/CMakeFiles/client.dir
+/home/drw1/mysql/Connection_Pool/build/CMakeFiles/edit_cache.dir
+/home/drw1/mysql/Connection_Pool/build/CMakeFiles/rebuild_cache.dir

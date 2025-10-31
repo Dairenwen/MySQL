@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/server.dir/main.cc.o -o server  /usr/lib/x86_64-linux-gnu/libmysqlclient.so 
